@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 
 url = "https://neet.nta.nic.in/public-notices/"
 
-keam_url = "https://cee.kerala.gov.in/"
-
 
 headers = {
     "User-Agent": "Mozilla/5.0"
